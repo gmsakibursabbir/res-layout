@@ -1,0 +1,47 @@
+body {
+  font-family: "Montserrat", sans-serif;
+  background-color: #f4f1de;
+}
+
+.top {
+  margin: 25px 0;
+}
+
+.header,
+.hero,
+.body,
+.bar,
+.footer {
+  background-color: #3d405b;
+  margin-bottom: 25px;
+}
+
+.box {
+  margin: 10px 0;
+  padding: 10px;
+  min-height: 80px;
+  background-color: #f2cc8f;
+  color: #3d405b;
+  font-size: 30px;
+  font-weight: 600;
+}
+
+h1 {
+  font-weight: 700;
+  color: #3d405b;
+  text-align: center;
+}
+
+p {
+  font-weight: 500;
+  color: #3d405b;
+  text-align: center;
+}
+
+.terra-cotta {
+  background-color: #e07a5f;
+}
+
+.morning-blue {
+  background-color: #81b29a;
+}
